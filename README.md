@@ -7,12 +7,14 @@ See the repository here —> https://github.com/manuelsanchez2/doicheliving-app
 
 #### My values
 
-- 🔭 I like exploring my limits and try to go beyond them
-- 🌱 Perfection is unachievable, let's assume it, excellence is better
-- 👯 Curiosity is a never-ending variable in my life
-- 🤔 People say I can spread motivation everywhere I go
-- 💬 I am not going to feel as a fool if I ask you three questions in a row
-- 📫 Trouble? Let's face it together!
+- 💡 I like exploring my limits and try to go beyond them
+- 👌 Perfection is unachievable, let's assume it, excellence is better
+- 🔍 Curiosity is a never-ending variable in my life
+- 🗣 People say I can spread motivation everywhere I go
+- ☝️ I am not going to feel bad if I ask you three questions in a row
+- ☕️ After 50 minutes, I might need a 3-minute-break to be a person again
+- 🏆 Trouble? Let's face it together!
+- 🏓 Love ping-pong. Really
 
 
 #### Tools I feel confy working with
