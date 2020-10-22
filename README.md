@@ -20,7 +20,9 @@ See the repository here —> https://github.com/manuelsanchez2/doicheliving-app
 #### Tools I feel confy working with
 ___
 
-JavaScript | React.js | MongoDB | Mongoose
+JavaScript | React.js | React Native
+
+MongoDB | Mongoose | MySQL
 
 Adobe XD | Figma | Canva 
 
