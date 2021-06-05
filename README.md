@@ -1,9 +1,7 @@
 ### Manuel Sánchez—@manuelsanchez2 
 ___
 
-Hi, I'm Manuel—a junior web developer based in Hamburg who loves coding with React.js. I have some previous experience regarding digital tools and I am in charge of a very cool project called Doiche Living, which is a travel blog who helps Spanish-speaking population to organize a trip to Germany. My best project is the Doiche Living App, created by using React.js, Node.js and MongoDB, among many other things.  
-
-See the repository here —> https://github.com/manuelsanchez2/doicheliving-app
+Hi, I'm Manuel—a junior web developer based in Hamburg who loves coding with React.js.
 
 #### My values
 
@@ -42,5 +40,5 @@ In my daily life as a developer I use:
 #### Get in touch
 ___
 
-- Personal site: https://bit.ly/32FeCuZ
+- Personal site: https://www.manu-sanchez.com
 - Email: manuel.webtech@gmx.de  
