@@ -1,7 +1,10 @@
 <div align="center">
-    <h3 align="center">¡Hola, soy Manu! 👋</h3>
-    <img align="center" style="border-radius: 50%" width="200" src="https://media.licdn.com/dms/image/D4E03AQF9ul3jbeZu-g/profile-displayphoto-shrink_400_400/0/1685693463119?e=1691020800&v=beta&t=UXygask7BPYaJsWHEsBK9MNNk4EAyzXdeul63hcTYkQ" />
-    <p align="center" style="margin: 10px 0;width: 350px">Soy un <strong>Frontend Team Lead y Creador de Contenido</strong> español adoptado por Alemania. <br /> Me considero un freak de React y Qwik.</p>
+
+<h3 align="center">¡Hola, soy Manu! 👋</h3>
+
+<img align="center" style="border-radius: 50%; margin-bottom: 10px;" width="200" src="https://media.licdn.com/dms/image/D4E03AQF9ul3jbeZu-g/profile-displayphoto-shrink_400_400/0/1685693463119?e=1691020800&v=beta&t=UXygask7BPYaJsWHEsBK9MNNk4EAyzXdeul63hcTYkQ" />
+
+<p align="center" style="margin: 10px 0;width: 350px">Soy un <strong>Frontend Team Lead y Creador de Contenido</strong> español adoptado por Alemania. <br /> Me considero un freak de React y Qwik.</p>
 </div>
 
 <div align="center" style="display: flex; margin: 10px 0; justify-content: center; gap: 10px;">
