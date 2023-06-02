@@ -1,20 +1,18 @@
 <div align="center">
-    <h3 align="center">¡Hola, soy Manu</h3>
+    <h3 align="center">¡Hola, soy Manu! 👋</h3>
     <img align="center" style="border-radius: 50%" width="200" src="https://media.licdn.com/dms/image/D4E03AQF9ul3jbeZu-g/profile-displayphoto-shrink_400_400/0/1685693463119?e=1691020800&v=beta&t=UXygask7BPYaJsWHEsBK9MNNk4EAyzXdeul63hcTYkQ" />
-    <p align="center" style="width: 350px">Soy un <strong>Frontend Team Lead y Creador de Contenido</strong> español adoptado por Alemania. <br /> Me considero un freak de React y Qwik.</p>
+    <p align="center" style="margin: 10px 0;width: 350px">Soy un <strong>Frontend Team Lead y Creador de Contenido</strong> español adoptado por Alemania. <br /> Me considero un freak de React y Qwik.</p>
 </div>
 
 <div align="center" style="display: flex; margin: 10px 0; justify-content: center; gap: 10px;">
 
 [![Number of subscribers on YouTube](https://img.shields.io/youtube/channel/subscribers/UCX3IE_OjG20p_AwbX06YAEg?style=social)](https://www.youtube.com/channel/UCX3IE_OjG20p_AwbX06YAEg?sub_confirmation=1)
-
 [![Number of courses on Udemy](https://img.shields.io/badge/udemy%20courses-6-green)](https://www.udemy.com/user/manuel-sanchez-324/)
-
 [![Number of courses on Udemy](https://img.shields.io/badge/udemy%20students-+10000-green)](https://www.udemy.com/user/manuel-sanchez-324/)
 
 </div>
 
-<div align="center" style="background-color: white; padding: 10px; width: fit-content; margin: 10px auto;">
+<div align="center" style="padding: 10px; width: fit-content; margin: 10px auto;">
     <a href="https://www.udemy.com/user/manuel-sanchez-324/" target="blank" style='margin-right:4px'>
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg" alt="udemy manuelsanchezweb" height="28px" width="28px" />
     </a>
