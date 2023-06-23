@@ -46,20 +46,20 @@ Desde hace un tiempo doy charlas y creo cursos sobre temas de desarrollo web. Ti
 ## 📹 Videos destacados en mi [canal de Youtube](https://www.youtube.com/channel/UCX3IE_OjG20p_AwbX06YAEg?sub_confirmation=1)
 
 <a href='https://youtu.be/o0HwamjhsWw' target='_blank'>
-  <img width='30%' src='https://i9.ytimg.com/vi_webp/o0HwamjhsWw/mqdefault.webp?v=6406f97e&sqp=CPT45qMG&rs=AOn4CLBxbEtOruhmXCTZKIYgNlFtxHDzhg' alt='¡Crash Course de React 18 en 50 mins!' />
+  <img width='30%' src='https://i9.ytimg.com/vi_webp/o0HwamjhsWw/mqdefault.webp?v=6406f97e&sqp=CPDm1qQG&rs=AOn4CLDONf9gr1DqbuBSdqBQNUkj-RXWHg' alt='¡Crash Course de React 18 en 50 mins!' />
 </a>
 <a href='https://youtu.be/X4puVLRTr4k' target='_blank'>
-  <img width='30%' src='https://i9.ytimg.com/vi_webp/X4puVLRTr4k/mqdefault.webp?v=641488ee&sqp=CKD75qMG&rs=AOn4CLBkCqTQrUWhvEAPVh_qPbOOdslkSA' alt='Crash Course de Qwik en 1 hora' />
+  <img width='30%' src='https://i9.ytimg.com/vi_webp/X4puVLRTr4k/mqdefault.webp?v=641488ee&sqp=CPDm1qQG&rs=AOn4CLAXj7R2tTr19mdKn83pnQTqdTrZXg' alt='Crash Course de Qwik en 1 hora' />
 </a>
 <a href='https://youtu.be/DcCpwpJQmG0' target='_blank'>
-  <img width='30%' src='https://i9.ytimg.com/vi_webp/DcCpwpJQmG0/mqdefault.webp?v=63ca9610&sqp=CKD75qMG&rs=AOn4CLBYvwIOzFxoVuku5DNdLe3N6bm03g' alt='Razones para aprender Qwik' />
+  <img width='30%' src='https://i9.ytimg.com/vi_webp/DcCpwpJQmG0/mqdefault.webp?v=63ca9610&sqp=CPDm1qQG&rs=AOn4CLBHz4mlD_GcMuUAz5iVY2GKMN78uw' alt='Razones para aprender Qwik' />
 </a>
 <a href='https://youtu.be/RMrA3xkbMMs' target='_blank'>
-  <img width='30%' src='https://i9.ytimg.com/vi/RMrA3xkbMMs/mqdefault.jpg?v=63d23d5a&sqp=CKD75qMG&rs=AOn4CLCBPz2ZMpgqXDdiC6jZHdie8OVJhA' alt='¡Programa una Pokedex desde cero con React y TypeScript!' />
+  <img width='30%' src='https://i9.ytimg.com/vi/RMrA3xkbMMs/mqdefault.jpg?v=63d23d5a&sqp=CPDm1qQG&rs=AOn4CLA7IARqs5j9yo5WuWKdKZXHurGC9A' alt='¡Programa una Pokedex desde cero con React y TypeScript!' />
 </a>
 <a href='https://youtu.be/vppEoqCtZkM' target='_blank'>
-  <img width='30%' src='https://i9.ytimg.com/vi_webp/vppEoqCtZkM/mqdefault.webp?v=643713dc&sqp=CKD75qMG&rs=AOn4CLBYN8FuHovOf1bQonNLFLS7M5sjgQ' alt='❗️ Piensa bien cómo usar tus icons!' />
+  <img width='30%' src='https://i9.ytimg.com/vi_webp/vppEoqCtZkM/mqdefault.webp?v=643713dc&sqp=CJzp1qQG&rs=AOn4CLDo8Cq3OqzWFiU1AlVgRdvf0o942w' alt='❗️ Piensa bien cómo usar tus icons!' />
 </a>
 <a href='https://youtu.be/_ugRzPfQ8Zg' target='_blank'>
-  <img width='30%' src='https://i9.ytimg.com/vi_webp/_ugRzPfQ8Zg/mqdefault.webp?v=64590f9e&sqp=CKD75qMG&rs=AOn4CLDfQwkODdlnvi4wT6EgEqy5iXhO7Q' alt='JSDocs' />
+  <img width='30%' src='https://i9.ytimg.com/vi_webp/_ugRzPfQ8Zg/mqdefault.webp?v=64590f9e&sqp=CJzp1qQG&rs=AOn4CLAH-cVluqbLDdagCqKZLVaNJzsJ6Q' alt='JSDocs' />
 </a>
