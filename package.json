@@ -1,0 +1,36 @@
+{
+    "name": "manuelsanchez2",
+    "version": "1.0.0",
+    "description": "manuelsanchez2 README GitHub profile",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "update-readme": "node src/index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/manuelsanchez2/manuelsanchez2.git"
+    },
+    "keywords": [
+        "readme",
+        "github profile",
+        "github readme"
+    ],
+    "author": "Manuel Sánchez <manusansan22@gmail.com> (https://manu-sanchez.com)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/manuelsanchez2/manuelsanchez2/issues"
+    },
+    "homepage": "https://github.com/manuelsanchez2/manuelsanchez2#readme",
+    "dependencies": {
+        "node-fetch": "2.6.1"
+    },
+    "devDependencies": {
+        "dotenv": "^16.3.1",
+        "standard": "16.0.4"
+    },
+    "eslintConfig": {
+        "extends": "./node_modules/standard/eslintrc.json"
+    }
+}

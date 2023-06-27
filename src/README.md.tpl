@@ -44,20 +44,5 @@ Desde hace un tiempo doy charlas y creo cursos sobre temas de desarrollo web. Ti
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📹 Videos destacados en mi [canal de Youtube](https://www.youtube.com/channel/UCX3IE_OjG20p_AwbX06YAEg?sub_confirmation=1)
-
-<a href='https://youtu.be/DcCpwpJQmG0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/DcCpwpJQmG0/mqdefault.jpg' alt='👉 QWIK JS Explicado en 5 Minutos' />
-</a>
-<a href='https://youtu.be/dZoG2wk3pjQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/dZoG2wk3pjQ/mqdefault.jpg' alt='🔥 4 FUNCIONALIDADES DE QWIK QUE NO CONOCÍAS' />
-</a>
-<a href='https://youtu.be/vppEoqCtZkM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/vppEoqCtZkM/mqdefault.jpg' alt='❗️ Piensa bien cómo usar tus icons!' />
-</a>
-<a href='https://youtu.be/2hq8g7VlIPo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/2hq8g7VlIPo/mqdefault.jpg' alt='🚀 Optimiza el rendimiento en React: Cómo usar Lazy y Suspense' />
-</a>
-<a href='https://youtu.be/YFc6ZhkQiJI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/YFc6ZhkQiJI/mqdefault.jpg' alt='🔥 Anuncio Nuevo Curso Qwik Avanzado' />
-</a>
+%{{latest_youtube}}%
 
