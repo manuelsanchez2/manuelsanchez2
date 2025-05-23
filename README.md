@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3 align="center">¡Hola, soy Manu! 👋</h3>
+<h3 align="center">¡Hola, soy Manuel! 👋</h3>
 
 <img align="center" style="border-radius: 50%; margin-bottom: 10px;" width="200" src="https://www.manuelsanchezweb.com/img/manuel-keyboard.svg" />
 
@@ -8,7 +8,7 @@
 
 <br />
 
-<p align="center" style="margin: 10px auto; width: 300px;">Soy un <strong>Frontend Team Lead y Creador de Contenido</strong> español adoptado por Alemania. <br /> Me considero un freak de React y Qwik.</p>
+<p align="center" style="margin: 10px auto; width: 300px;">Soy un <strong>Full Stack Developer y Creador de Contenido</strong> español adoptado por Alemania.</p>
 
 <div align="center" style="display: flex; margin: 10px 0; justify-content: center; gap: 10px;">
 
