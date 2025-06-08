@@ -16,9 +16,9 @@
 
 <br />
 
-<img align="right" alt="GIF" src="./assets/manuel-pixelart.jpg" width="240px" />
+<img align="right" style="margin-left: 20px;" alt="GIF" src="./assets/manuel-pixelart.jpg" width="200px" />
 
-## About me
+<h2>About me</h2>
 
 - 💼 I’m currently working @ [Die Zeit](https://github.com/ZeitOnline/).
 - ⭐️ Web Accessibility Specialist by IAAP.
