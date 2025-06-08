@@ -47,6 +47,7 @@ const coolestProjectsEver = [
   { name: 'Avatar Creator', url: 'https://my-avatar-creator.vercel.app' },
   { name: 'Bee Icons', url: 'https://www.bee-icons.com/' },
   { name: 'Budget Calculator', url: 'https://my-budget-calculator.vercel.app' },
+  { name: 'The Hamburg Times', url: 'https://the-hamburg-times.vercel.app' },
 ]
 ```
 
@@ -66,7 +67,6 @@ const gamesIHaveBeenWorkingOnLately = [
     name: 'Turn Based Game About Vikings',
     url: 'https://msweb.itch.io/saxons-and-vikings',
   },
-  { name: 'Incremental Game', url: 'https://the-hamburg-times.vercel.app/' },
   {
     name: 'Scumm Engine (1 Level Available)',
     url: 'https://scumm-ts.vercel.app/',
