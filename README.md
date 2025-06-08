@@ -45,6 +45,7 @@
 ```js
 const coolestProjectsEver = [
   { name: 'Avatar Creator', url: 'https://my-avatar-creator.vercel.app' },
+  { name: 'Bee Icons', url: 'https://www.bee-icons.com/' },
   { name: 'Budget Calculator', url: 'https://my-budget-calculator.vercel.app' },
 ]
 ```
